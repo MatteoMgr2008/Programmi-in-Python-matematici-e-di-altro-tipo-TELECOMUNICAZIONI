@@ -1,1 +1,1 @@
-
+# Nessuna dipendenza (libreria) esterna di Python è necessaria per questo script
