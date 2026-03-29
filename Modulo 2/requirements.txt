@@ -1,6 +1,6 @@
-colorama==0.4.6
-matplotlib==3.10.8
-numpy==2.4.3
-rich==14.3.3
-scipy==1.17.1
-sounddevice==0.5.5
+colorama
+matplotlib
+numpy
+rich
+scipy
+sounddevice
